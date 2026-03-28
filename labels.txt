@@ -1,0 +1,5 @@
+0 cirrus
+1 clear sky
+2 cumulus
+3 mixed
+4 stratus
