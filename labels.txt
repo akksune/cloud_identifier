@@ -3,3 +3,4 @@
 2 cumulus
 3 mixed
 4 stratus
+5 not a cloud
